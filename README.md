@@ -24,11 +24,12 @@ The system will be only activated through a correct input pin which will be crea
 The LCD will be located inside the house and will have dedicated keypad on it. It will be called the “Control Hub” of the system. It basically consists of LCD for output and a keypad for input. This will be used for enabling and disabling the security system. This will also display the status of the sensors when they are triggered. 
 
 In the security system, the components that can only be activated and deactivated are the following:
-•	PIR Sensor
-•	Reed Switch
-•	Flame Sensor
-•	Smoke Sensor
-•	Water Sensor
+• PIR Sensor
+• Reed Switch
+• Flame Sensor
+• Smoke Sensor
+• Water Sensor
+
 The LEDs and the Buzzers can also be turned off through the keypad with LCD if the system is triggered.
 	
 Every successful input to the door lock or from the control hub will trigger green LEDs and a distinctive buzzer sound for identifying that the entered data is correct.  It is also the same if the entered data is incorrect, it will also produce a distinct error buzzer sound and a red LED will light up.
