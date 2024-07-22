@@ -34,5 +34,11 @@ The LEDs and the Buzzers can also be turned off through the keypad with LCD if t
 	
 Every successful input to the door lock or from the control hub will trigger green LEDs and a distinctive buzzer sound for identifying that the entered data is correct.  It is also the same if the entered data is incorrect, it will also produce a distinct error buzzer sound and a red LED will light up.
 
+&nbsp;
+## Schematic Diagram:
+
+![image](https://github.com/user-attachments/assets/61069872-53e6-4932-aecd-55181186d396)
+
+
 ## Findings, Recommendations and Conclusions:
 The system has a decent number of sensors and is very effective, but it can still be improved by integrating an IoT system or a GSM module; it will make it more convenient when accessing the system without manually interacting with it. The recommended inclusion to the system is by integrating wireless communication with the system. It can also benefit the user if they can still be
